@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "1-node-tutorial",
+			"path": "../../OneDrive/Desktop/Huldah Node.js and Express.Js/1-node-tutorial"
+		},
+		{
+			"name": "temp-node-express.js-node.js",
+			"path": "."
+		},
+		{
+			"name": "1-event-loop-examples",
+			"path": "../../OneDrive/Desktop/Huldah Node.js and Express.Js/1-event-loop-examples"
+		},
+		{
+			"name": "2-async-patterns",
+			"path": "../../OneDrive/Desktop/Huldah Node.js and Express.Js/2-async-patterns"
+		}
+	],
+	"settings": {}
+}
